@@ -1,0 +1,32 @@
+{
+  "name": "ghumobackend",
+  "version": "1.0.0",
+  "description": "Backend code for ghmocode",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakharSambhav1/GhumoBackend.git"
+  },
+  "keywords": [
+    "Ghumo"
+  ],
+  "author": "Prakhar Sambhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakharSambhav1/GhumoBackend/issues"
+  },
+  "homepage": "https://github.com/PrakharSambhav1/GhumoBackend#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
